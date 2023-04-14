@@ -347,7 +347,7 @@ nav {
   text-align: center;
   border-bottom: var(--light-pink) solid 0.5rem;
   display: flex;
-  background-image: url(../imgs/bg.jpg);
+  background-image: url('imgs/bg.jpg');
   background-position: center;
   overflow: hidden;
   width: 100%;
